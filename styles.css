@@ -103,7 +103,6 @@ nav .right a{
   
   .hero-section .headshot img {
    width: 250px;
-   object-fit: cover;
   border-radius: 50%;
     margin-top: -30%;
   
@@ -266,8 +265,7 @@ nav .right a{
   }
 
   .hero-section .headshot img {
-    width: 200px;
-    margin-top: -50px;
+    display:none;
 
   }
 
